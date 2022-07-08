@@ -57,7 +57,7 @@
 :dart:直接访问https://github.com/Junior233/blog_articles/issues
 
 #### 亮点项目
-
+[时间管理提醒系统介绍](https://github.com/baymaxxjf/blog/blob/main/%E5%9F%BA%E4%BA%8Ejava%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%8F%90%E9%86%92%E7%B3%BB%E7%BB%9F.md)
 
 ####  :fist:人生格言
 `just do it`  
