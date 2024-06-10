@@ -1,3 +1,7 @@
+#### 技术博客 https://www.xjinfeng.top/archives
+
+#### 生活博客 https://ys.xjinfeng.top/archives
+
 #### :pencil:博客阅读须知
 
 :star:由于https://www.xjinfeng.top 托管在github上，鉴于国内普遍存在的dns污染的问题，可能会导致该博客无法访问，解决办法如下👇：
